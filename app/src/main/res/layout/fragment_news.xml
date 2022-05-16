@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:text="@string/Back" />
+
+    <TextView
+        android:id="@+id/news_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_1" />
+
+    <TextView
+        android:id="@+id/news_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_2" />
+
+    <TextView
+        android:id="@+id/news_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_3" />
+
+    <TextView
+        android:id="@+id/news_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_4" />
+
+    <TextView
+        android:id="@+id/news_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_5" />
+
+    <TextView
+        android:id="@+id/news_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:text="@string/news_6" />
+
+
+</LinearLayout>

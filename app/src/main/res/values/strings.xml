@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsFragment</string>
+    <string name="Back">Back</string>
+    <string name="NotBack">Next</string>
+    <string name="news_1">new1</string>
+    <string name="news_2">new2</string>
+    <string name="news_3">new3</string>
+    <string name="news_4">new4</string>
+    <string name="news_5">new5</string>
+    <string name="news_6">new6</string>
+</resources>
